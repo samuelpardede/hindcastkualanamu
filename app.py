@@ -126,7 +126,7 @@ st.sidebar.info(
     "pendekatan Machine Learning."
 )
 st.sidebar.write("---")
-st.sidebar.write("Dibuat oleh: Samuel F. Pardede")
+st.sidebar.write("Dibuat oleh: Samuel Fernandez Pardede")
 
 # --- PERUBAHAN: Menambahkan informasi kontak di sidebar ---
 st.sidebar.header("Creator Socials")
